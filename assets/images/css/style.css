@@ -327,7 +327,7 @@ footer a {
     flex: 1;
 }
 .trainer-1 {
-    background-image: url(../images/trainer-1.jpg);
+    background-image: url(../images/trainer-1.jpg) ;
 }
 .trainer-2 {
     background-image: url(../images/trainer-2.jpg);
