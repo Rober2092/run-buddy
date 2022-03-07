@@ -104,7 +104,7 @@ footer a {
 
 /* Hero Style Start */
 .hero {
-    background-image: url("/assets/css/images/hero-bg.jpg");
+    background-image: url("images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     margin-bottom: 50px;
@@ -333,7 +333,7 @@ footer a {
     background-image: url(images/trainer-2.jpg);
 }
 .trainer-3 {
-    background-image: url(images/step-3.svg);
+    background-image: url(images/trainer-3.jpg);
 }
 .trainer-img {
     width: 100%;
